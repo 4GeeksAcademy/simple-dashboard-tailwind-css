@@ -17,7 +17,7 @@ Por [@marcogonzalo](https://github.com/marcogonzalo) y [otros contribuidores](ht
 
 ---
 
-## Tu reto
+## 🎯 Tu reto
 
 Tu vecino, el artista del barrio, vuelve con buenas noticias: ha lanzado una tienda online para vender entradas de sus presentaciones. El problema es que, aunque el sitio está teniendo muchas visitas y compras, nadie sabe responder preguntas básicas como:
 

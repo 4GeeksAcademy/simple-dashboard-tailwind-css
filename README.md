@@ -17,7 +17,7 @@ By [@marcogonzalo](https://github.com/marcogonzalo) and [other contributors](htt
 
 ---
 
-## Your challenge
+## 🎯 Your challenge
 
 Your neighbor, the local artist, is back with good news: they have launched an online store to sell tickets for their performances. The problem is that although the site is getting many visits and purchases, nobody can answer basic questions such as:
 
