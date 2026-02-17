@@ -19,15 +19,20 @@ Por [@marcogonzalo](https://github.com/marcogonzalo) y [otros contribuidores](ht
 
 ## 🎯 Tu reto
 
-Tu vecino, el artista del barrio, vuelve con buenas noticias: ha lanzado una tienda online para vender entradas de sus presentaciones. El problema es que, aunque el sitio está teniendo muchas visitas y compras, nadie sabe responder preguntas básicas como:
+Una influencer que está empezando a relacionarse con marcas te contacta porque necesita medir el impacto de sus anuncios y su conversión. El problema es que tiene múltiples cuentas en redes sociales (Instagram, TikTok, YouTube, etc.) y necesita entender cómo puede consolidar toda la información en un tablero de reporte para responder preguntas básicas como:
 
-- ¿Cuánto dinero estamos ingresando?
-- ¿Cuántas entradas se han vendido y cuántas quedan?
-- ¿Qué tan bien convierte la web (compras / visitas)?
-- ¿Qué promociones funcionan y cuáles están canibalizando el precio?
-- ¿Quiénes han comprado más entradas?
+- ¿Cuánto dinero estoy generando en comisiones?
+- ¿Qué productos están generando más ingresos?
+- ¿Qué tan bien convierten mis anuncios (conversiones / alcance)?
+- ¿Qué plataformas están generando mejor retorno (ingresos/costes)?
+- ¿Cuál es el _engagement rate_ por plataforma y por producto?
 
-El artista te contacta porque necesita un reporte claro (un dashboard) que le permita supervisar el negocio sin perderse en datos. Y tú, aunque estás empezando, quieres entregar una propuesta sólida y profesional, así que tu misión es diseñar un dashboard que le muestre lo más importante para tomar decisiones rápidas.
+La influencer te contacta porque necesita un reporte claro (un dashboard) que le permita supervisar su negocio sin perderse en datos dispersos entre múltiples plataformas. Y tú, aunque estás empezando, quieres entregar una propuesta sólida y profesional, así que tu misión es diseñar un dashboard que consolide la información de todas sus redes sociales y le muestre lo más importante para tomar decisiones rápidas.
+
+**Contexto del negocio:**
+
+- Tiene 3 productos que promociona con tres precios distintos (Producto A: 50€, Producto B: 120 €, Producto C: 80 €)
+- Por cada venta generada recibe una comisión del 15%
 
 ---
 
@@ -37,24 +42,31 @@ Organiza el dashboard en grandes bloques:
 
 **1️⃣ Bloque superior:** Indicadores principales del resultado (KPI):
 
-- **Volumen:** ventas/inscripciones/usuarios activos
-- **Ingresos:** revenue, MRR, ticket medio
-- **Retención:** churn, permanencia, completion
-- **Satisfacción:** NPS/CSAT
+- **Volumen:** ventas, inscripciones, usuarios activos, impresiones
+- **Ingresos:** revenue (comisiones, ventas), MRR (facturación mensual recurrente en suscripciones), precio medio de venta
+- **Engagement:** tasa de _engagement_, interacciones totales, tasa de conversión
+- **Retención:** churn (tasa de bajas), permanencia, tasa de compleción del proceso de venta o suscripción
+- **Rendimiento:** conversiones totales, tasa de clics (CTR), tasa de conversión
+- **Satisfacción:** puntuación de lealtad (NPS), puntuación de satisfacción (CSAT)
 - **Eficiencia:** coste por resultado, margen, tiempos
 
 **2️⃣ Bloque intermedio:** “Drivers” (factores que explican el resultado):
 
-- **Conversión** por etapas (funnel)
-- **Calidad** (ratio de leads cualificados, attendance rate, pass rate)
-- **Actividad** (touches, sesiones, entregas, asistencia)
-- **Capacidad** (ocupación, plazas disponibles, ratio mentor/estudiante)
+- **Conversión** por etapas (funnel de ventas)
+- **Rendimiento por plataforma** (Instagram, TikTok, YouTube, etc.)
+- **Calidad** (ratio de leads cualificados, _attendance rate_, _pass
+  rate_)
+- **Rendimiento por producto** (qué producto genera más comisiones y mejor conversión)
+- **Actividad** (posts publicados, stories, reels, videos por plataforma)
+- **Engagement** (me gusta, comentarios, compartidos, guardados por plataforma)
 
 **3️⃣ Bloque inferior:** Detalles operacionales (tablas/listados, alertas):
 
-- Backlog, tiempos de respuesta, SLA
-- Alertas: caídas fuertes, picos, anomalías
-- Listados y tablas con filtros: “top problemas”, “top oportunidades”
+- Tabla de productos: precio, comisiones generadas, conversiones, ROI por producto
+- Tabla de plataformas: alcance, engagement, conversiones, mejor plataforma por métrica
+- Tabla de campañas: fechas, productos promocionados, resultados, rendimiento
+- Alertas: caídas fuertes en conversión, picos de conversión, anomalías en el rendimiento
+- Listados con filtros: “top productos”, “top plataformas", "top campañas", "oportunidades de mejora”
 
 > Ejemplo visual de dashboard administrativo:
 
@@ -83,6 +95,8 @@ Crea un dashboard que permita identificar al menos **tres KPIs**, **tres drivers
 - [ ] **Uso adecuado de Tailwind CSS**
 - [ ] **Correcta diagramación y agrupación de componentes visuales**
 - [ ] **Aplicación de diseño responsivo**
+
+> Nota: No se tendrá en cuenta la idoneidad de los indicadores escogidos.
 
 ---
 
