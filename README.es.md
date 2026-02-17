@@ -74,6 +74,20 @@ Organiza el dashboard en grandes bloques:
 
 ---
 
+## 🌱 Cómo iniciar el proyecto
+
+Abre el repositorio de plantilla usando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o clónalo en local:
+
+```text
+https://github.com/4GeeksAcademy/html-hello
+```
+
+Sigue los pasos en [cómo comenzar un proyecto de codificación](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
+
+💡 **Importante:** Crea un nuevo repositorio en GitHub para tu código, actualiza el remoto (`git remote set-url origin <tu-nueva-url>`) y sube los cambios con `add`, `commit` y `push`.
+
+---
+
 ## 💻 Qué debes hacer
 
 Crea un dashboard que permita identificar al menos **tres KPIs**, **tres drivers** y detalles operacionales (tablas/listados), como los mencionados previamente. El dashboard debe verse correctamente en cualquier dispositivo (móviles, tabletas y computadoras).
@@ -103,12 +117,6 @@ Crea un dashboard que permita identificar al menos **tres KPIs**, **tres drivers
 ## 📦 Cómo entregar este proyecto
 
 Debes entregar un repositorio que incluya el documento HTML con toda la estructura y el CSS con los estilos y las media queries necesarias para adaptar el dashboard a los distintos _breakpoints_.
-
----
-
-## 🌱 Cómo iniciar el proyecto
-
-Esto se puede trabajar de forma guiada, permitiendo que distintas personas enseñen su resultado compartiendo pantalla.
 
 ---
 

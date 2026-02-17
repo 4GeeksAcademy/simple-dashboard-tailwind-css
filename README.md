@@ -73,6 +73,20 @@ Organize the dashboard into broad blocks:
 
 ---
 
+## 🌱 How to start the project
+
+Open the template repository using a provisioning tool such as [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or clone it locally:
+
+```text
+https://github.com/4GeeksAcademy/html-hello
+```
+
+Follow the steps in [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-coding-project).
+
+💡 **Important:** Create a new repository on GitHub for your code, update the remote (`git remote set-url origin <your-new-url>`) and push your changes with `add`, `commit` and `push`.
+
+---
+
 ## 💻 What you need to do
 
 Create a dashboard that allows identifying at least **three KPIs**, **three drivers**, and operational details (tables/lists), as mentioned above. The dashboard must display correctly on any device (mobile, tablets, and desktops).
@@ -102,12 +116,6 @@ Create a dashboard that allows identifying at least **three KPIs**, **three driv
 ## 📦 How to submit this project
 
 You must submit a repository that includes the HTML document with the full structure and the CSS with the styles and media queries needed to adapt the dashboard to the different _breakpoints_.
-
----
-
-## 🌱 How to start the project
-
-This can be done in a guided way, letting different people share their results by sharing their screen.
 
 ---
 
